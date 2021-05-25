@@ -1,4 +1,4 @@
-https://jeancwes.visualstudio.com/scarlet/_apis/build/status/jeancwes.pipelines-javascript?branchName=master
+[![Build Status](https://jeancwes.visualstudio.com/scarlet/_apis/build/status/jeancwes.pipelines-javascript?branchName=master)](https://jeancwes.visualstudio.com/scarlet/_build/latest?definitionId=1&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
